@@ -24,6 +24,6 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: swagger-cli
-      uses: IntuitiveWebSolutions/oaslint-action/@v1.0
+      uses: IntuitiveWebSolutions/oaslint-action/@v1.1
       with:
         file_path: "swagger.yaml"
