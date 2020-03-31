@@ -24,6 +24,6 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: swagger-cli
-      uses: vaibhav-jain/swagger-cli-action/@v2.0
+      uses: vaibhav-jain/swagger-cli-action/@v2.2
       with:
-        file_path: "/github/workspace/swagger.yaml"
+        file_path: "swagger.yaml"
