@@ -694,7 +694,7 @@ definitions:
         format: "int32"
       type:
         type: "string"
-      message:
+    message:
         type: "string"
 externalDocs:
   description: "Find out more about Swagger"
